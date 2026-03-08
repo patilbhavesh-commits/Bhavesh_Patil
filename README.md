@@ -1,13 +1,19 @@
+<!-- DARK BROWN THEME GITHUB PROFILE README -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4E342E&height=220&section=header&text=Bhavesh%20Patil&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Software%20Developer%20|%20Java%20|%20Spring%20Boot%20|%20.NET&descAlignY=70"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Bhavesh Patil</h1>
 <h3 align="center">Software Developer | Java | Spring Boot | .NET | Cloud Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=PG-DAC+Software+Developer;Java+%7C+Spring+Boot+%7C+.NET+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=D7CCC8&center=true&vCenter=true&lines=PG-DAC+Software+Developer;Java+%7C+Spring+Boot+%7C+.NET+Developer;REST+API+Developer;Always+Learning+New+Technologies"/>
 </p>
 
 ---
 
-# 💫 About Me
+# 🤎 About Me
 
 🎓 PG-DAC Software Developer from **C-DAC Nashik**  
 💻 Passionate about **Backend Development & Cloud Applications**  
@@ -21,16 +27,16 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/bhavesh-patil-876160159">
+<img src="https://img.shields.io/badge/LinkedIn-4E342E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:contact.patilbhavesh@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-6D4C41?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-3E2723?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -40,28 +46,28 @@
 # 💻 Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=csharp)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-4E342E?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6D4C41?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-5D4037?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4E342E?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge&logo=springboot)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-purple?style=for-the-badge&logo=dotnet)
-![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6D4C41?style=for-the-badge&logo=springboot&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-4E342E?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-3E2723?style=for-the-badge)
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![SQL Server](https://img.shields.io/badge/SQLServer-red?style=for-the-badge&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/MySQL-6D4C41?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-4E342E?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![Maven](https://img.shields.io/badge/Maven-red?style=for-the-badge&logo=apachemaven)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![Selenium](https://img.shields.io/badge/Selenium-green?style=for-the-badge&logo=selenium)
+![Git](https://img.shields.io/badge/Git-4E342E?style=for-the-badge&logo=git&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-6D4C41?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-5D4037?style=for-the-badge&logo=postman&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-4E342E?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### Cloud
-![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![AWS](https://img.shields.io/badge/AWS-3E2723?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -92,11 +98,11 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=gruvbox"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=gruvbox"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=gruvbox"/>
 
 </p>
 
@@ -116,4 +122,8 @@
 
 ---
 
-⭐ From [Bhavesh Patil](https://github.com/YOUR_GITHUB)
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4E342E&height=120&section=footer"/>
+</p>
+
+⭐ From [Bhavesh Patil](https://github.com/YOUR_GITHUB_USERNAME)
